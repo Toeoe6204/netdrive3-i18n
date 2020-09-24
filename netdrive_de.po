@@ -15,7 +15,7 @@ msgstr "Laufwerk hinzufügen"
 #: ../../NetDriveUI/adddrive.ui:55
 msgctxt "AddDrive|"
 msgid "STORAGE TYPE"
-msgstr "LAUFWERKS TYP"
+msgstr "LAUFWERKSTYP"
 
 #: ../../NetDriveUI/adddrive.ui:124
 msgctxt "AddDrive|"
@@ -80,7 +80,7 @@ msgstr "Einhängen bei Login"
 #: ../../NetDriveUI/adddrive.ui:422
 msgctxt "AddDrive|"
 msgid "UPLOAD OPTIONS"
-msgstr "UPLOAD EINSTELLUNGEN"
+msgstr "UPLOAD-EINSTELLUNGEN"
 
 #: ../../NetDriveUI/adddrive.ui:428
 msgctxt "AddDrive|"
@@ -120,7 +120,7 @@ msgstr "Immer Dateiliste vom Server abrufen"
 #: ../../NetDriveUI/adddrive.ui:490
 msgctxt "AddDrive|"
 msgid "As a removable drive"
-msgstr "Auswerfbares Laufwerk"
+msgstr "Als auswerfbares Laufwerk"
 
 #: ../../NetDriveUI/adddrive.ui:497
 msgctxt "AddDrive|"
@@ -131,7 +131,7 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:504
 msgctxt "AddDrive|"
 msgid "Use static filesystem(Experimental)"
-msgstr "Statisches Dateisystem verwenden(experimentell)"
+msgstr "Statisches Dateisystem verwenden (experimentell)"
 
 #: ../../NetDriveUI/adddrive.cpp:151
 msgctxt "AddDrive|"
@@ -152,7 +152,7 @@ msgstr "Lokales Laufwerk"
 msgctxt "AddDrive|"
 msgid "Please press CONNECT button to set connection information."
 msgstr ""
-"Bitte klicken Sie zuerst auf die VERBINDEN-Schaltfläche um die "
+"Bitte klicken Sie zuerst auf die VERBINDEN-Schaltfläche, um die "
 "Authentifizierungsdaten abzurufen."
 
 #: ../../NetDriveUI/adddrive.cpp:671
@@ -173,13 +173,13 @@ msgstr "Bitte geben Sie einen Namen für das Laufwerk ein."
 msgctxt "AddDrive|"
 msgid "The maximum length of the drive name is 50."
 msgstr ""
-"Die Länge des Laufwerks-Namens überschreitet die maximal-erlaubte Länge von "
+"Die Länge des Laufwerksnamens überschreitet die maximal erlaubte Länge von "
 "50 Zeichen."
 
 #: ../../NetDriveUI/adddrive.cpp:698
 msgctxt "AddDrive|"
 msgid "Please select remote path."
-msgstr "Bitte wählen sie den remote-pfad."
+msgstr "Bitte wählen Sie den Remote-Pfad."
 
 #: ../../NetDriveUI/adddrive.cpp:719
 msgctxt "AddDrive|"
@@ -192,7 +192,7 @@ msgstr ""
 msgctxt "AddDrive|"
 msgid " Please try again by pressing the CONNECT button."
 msgstr ""
-" Bitte versuchen Sie es erneut, indem sie auf die VERBINDEN-Schaltfläche "
+"Bitte versuchen Sie es erneut, indem Sie auf die VERBINDEN-Schaltfläche "
 "klicken."
 
 #: ../../NetDriveUI/adddrive.cpp:1681
@@ -203,37 +203,37 @@ msgstr "Wir unterstützen dieses Protokoll nicht."
 #: ../../NetDriveUI/adddrive.ui:312
 msgctxt "AddDrive|"
 msgid "ITEM LOCATION"
-msgstr ""
+msgstr "Ort der Bereitstellung"
 
 #: ../../NetDriveUI/adddrive.cpp:293
 msgctxt "AddDrive|"
 msgid "In account"
-msgstr ""
+msgstr "Im Account"
 
 #: ../../NetDriveUI/adddrive.cpp:294
 msgctxt "AddDrive|"
 msgid "In device"
-msgstr ""
+msgstr "Auf dem Gerät"
 
 #: ../../NetDriveUI/adddrive.cpp:351
 msgctxt "AddDrive|"
 msgid "Add a Personal Drive"
-msgstr ""
+msgstr "Ein persönliches Laufwerk hinzufügen"
 
 #: ../../NetDriveUI/adddrive.cpp:357
 msgctxt "AddDrive|"
 msgid "Add a Team Drive"
-msgstr ""
+msgstr "Ein Team-Laufwerk hinzufügen"
 
 #: ../../NetDriveUI/adddrive.cpp:436
 msgctxt "AddDrive|"
 msgid "Configure a Team Drive"
-msgstr ""
+msgstr "Team-Laufwerk konfigurieren"
 
 #: ../../NetDriveUI/adddrive.cpp:441
 msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
-msgstr ""
+msgstr "Persönliches Laufwerk konfigurieren"
 
 #: ../../NetDriveUI/adddrive.cpp:1652
 msgctxt "AddDrive|"
@@ -241,6 +241,8 @@ msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
 msgstr ""
+"Zu diesem Team-Laufwerk wurden noch keine Verbindungsinformationen "
+"festgelegt. Wollen Sie das jetzt tun?"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
@@ -321,27 +323,27 @@ msgstr "Laufwerk bearbeiten"
 #: ../../../ui_helper/filebrowser/downloadprogress.ui:32
 msgctxt "Dialog|"
 msgid "Progress"
-msgstr ""
+msgstr "Fortschritt"
 
 #: ../../../ui_helper/filebrowser/downloaditem.cpp:12
 msgctxt "DownloadItem|"
 msgid "Preparing Download..."
-msgstr ""
+msgstr "Herunterladen vorbereiten ..."
 
 #: ../../../ui_helper/filebrowser/downloadprogressdlg.cpp:7
 msgctxt "DownloadProgressDlg|"
 msgid "File Download"
-msgstr ""
+msgstr "Datei herunterladen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:288
 msgctxt "FileBrowserManager|"
 msgid "Save to Downloads Folder"
-msgstr ""
+msgstr "In den Download-Ordner speichern"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:289
 msgctxt "FileBrowserManager|"
 msgid "Download to..."
-msgstr ""
+msgstr "Herunterladen nach ..."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:290
 #, fuzzy
@@ -352,18 +354,18 @@ msgstr "Öffnen"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:291
 msgctxt "FileBrowserManager|"
 msgid "Reload"
-msgstr ""
+msgstr "Neu laden"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:292
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:803
 msgctxt "FileBrowserManager|"
 msgid "Rename"
-msgstr ""
+msgstr "Umbenennen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:293
 msgctxt "FileBrowserManager|"
 msgid "Move"
-msgstr ""
+msgstr "Verschieben"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:294
 #, fuzzy
@@ -375,82 +377,82 @@ msgstr "Löschen"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
 msgctxt "FileBrowserManager|"
 msgid "New folder"
-msgstr ""
+msgstr "Neuer Ordner"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:323
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:756
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
 msgctxt "FileBrowserManager|"
 msgid "Get Shareable Link"
-msgstr ""
+msgstr "Link zum Teilen erzeugen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:333
 msgctxt "FileBrowserManager|"
 msgid "Lock"
-msgstr ""
+msgstr "Sperren"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
-msgstr ""
+msgstr "Entsperren"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:335
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
-msgstr ""
+msgstr "Entsperren erzwingen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:346
 msgctxt "FileBrowserManager|"
 msgid "Locked files list"
-msgstr ""
+msgstr "Liste der gesperrten Dateien"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:392
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
 msgctxt "FileBrowserManager|"
 msgid "Connection Fail"
-msgstr ""
+msgstr "Verbindung fehlgeschlagen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:375
 msgctxt "FileBrowserManager|"
 msgid "Failed to connect protocol."
-msgstr ""
+msgstr "Verbindung zu Protokoll fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:393
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1161
 msgctxt "FileBrowserManager|"
 msgid "Failed to get file list."
-msgstr ""
+msgstr "Abrufen der Dateiliste fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:439
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
-msgstr ""
+msgstr "Abrufen der Root-ID fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
 msgctxt "FileBrowserManager|"
 msgid "Reload Folder"
-msgstr ""
+msgstr "Ordner neu laden"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:593
 msgctxt "FileBrowserManager|"
 msgid "Failed to reload folder."
-msgstr ""
+msgstr "Laden des Ordners fehlgeschlagen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:620
 msgctxt "FileBrowserManager|"
 msgid "Download Complete."
-msgstr ""
+msgstr "Herunterladen abgeschlossen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
 msgctxt "FileBrowserManager|"
 msgid "File downloading failed"
-msgstr ""
+msgstr "Herunterladen der Datei fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:628
 msgctxt "FileBrowserManager|"
 msgid "Can not download file from server."
-msgstr ""
+msgstr "Datei kann nicht vor Server heruntergeladen werden."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:757
 #, qt-format
@@ -460,17 +462,20 @@ msgid ""
 "%1\n"
 "Click the OK button to copy the shareable link."
 msgstr ""
+"Link zum Teilen erfolgreich erzeugt.\n"
+"%1\n"
+"Drücken Sie die OK-Schaltfläche, um den Link zum Teilen zu kopieren."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:764
 msgctxt "FileBrowserManager|"
 msgid "Failed to get shareable link."
-msgstr ""
+msgstr "Erzeugung des Links zum Teilen fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:801
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "Failed to rename file with %1"
-msgstr ""
+msgstr "Umbenennen der Datei mit %1 fehlgeschlagen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
@@ -478,84 +483,84 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1017
 msgctxt "FileBrowserManager|"
 msgid "Move File"
-msgstr ""
+msgstr "Verschiebe Datei"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:823
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:848
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file."
-msgstr ""
+msgstr "Datei verschieben fehlgeschlagen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
 msgctxt "FileBrowserManager|"
 msgid "Delete File"
-msgstr ""
+msgstr "Lösche Datei"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:876
 msgctxt "FileBrowserManager|"
 msgid "Failed to delete file."
-msgstr ""
+msgstr "Datei löschen fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:908
 msgctxt "FileBrowserManager|"
 msgid "Failed to create new folder."
-msgstr ""
+msgstr "Erstellen des neuen Ordners fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
 msgctxt "FileBrowserManager|"
 msgid "Lock File"
-msgstr ""
+msgstr "Sperre Datei"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:920
 msgctxt "FileBrowserManager|"
 msgid "Failed to lock the file."
-msgstr ""
+msgstr "Datei sperren fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
 msgctxt "FileBrowserManager|"
 msgid "Unlock File"
-msgstr ""
+msgstr "Entsperre Datei"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:936
 msgctxt "FileBrowserManager|"
 msgid "Failed to unlock the file."
-msgstr ""
+msgstr "Datei entsperren fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
 msgctxt "FileBrowserManager|"
 msgid "Failed Action"
-msgstr ""
+msgstr "Aktion fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:989
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "A file with the same name as %1 exists."
-msgstr ""
+msgstr "Eine Datei mit dem gleichen namen wie %1 existiert bereits."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1005
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file to destination folder."
-msgstr ""
+msgstr "Datei in das Ziel-Verzeichnis zu verschieben fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
 msgctxt "FileBrowserManager|"
 msgid "Destination folder has a file with the same name."
-msgstr ""
+msgstr "Ziel-Verzeichnis enthält eine Datei mit demselben Namen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
 msgctxt "FileBrowserManager|"
 msgid "File Open"
-msgstr ""
+msgstr "Datei öffnen"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1085
 msgctxt "FileBrowserManager|"
 msgid "Failed to create temporary directory."
-msgstr ""
+msgstr "Erstellen eines temporären Verzeichnisses fehlgeschlagen."
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1160
 msgctxt "FileBrowserManager|"
 msgid "Get File List"
-msgstr ""
+msgstr "Dateiliste abrufen"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 #, fuzzy
@@ -566,12 +571,12 @@ msgstr "Name"
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 msgctxt "FileTreeModel|"
 msgid "Size"
-msgstr ""
+msgstr "Grösse"
 
 #: ../../../ui_helper/filebrowser/filetreemodel.cpp:26
 msgctxt "FileTreeModel|"
 msgid "Modified"
-msgstr ""
+msgstr "Änderungsdatum"
 
 #: ../../../ui_helper/bdui/flatabout.ui:14
 msgctxt "FlatAbout|"
@@ -587,7 +592,7 @@ msgstr "Lizenziert für %1"
 #: ../../../ui_helper/bdui/flatabout.ui:135
 msgctxt "FlatAbout|"
 msgid "Trial"
-msgstr "Probelizenz"
+msgstr "Probe-Lizenz"
 
 #: ../../../ui_helper/bdui/flatmenubar.ui:240
 msgctxt "FlatMenuBar|"
@@ -622,7 +627,7 @@ msgstr "Automatisch nach Aktualisierungen suchen"
 #: ../../NetDriveUI/flatsettingcontents.ui:87
 msgctxt "FlatSettingContents|"
 msgid "Check for updates to beta version if available"
-msgstr "Nach Updates für Beta-Versionen suchen falls verfügbar"
+msgstr "Nach Updates für Beta-Versionen suchen, falls verfügbar"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:106
 msgctxt "FlatSettingContents|"
@@ -649,7 +654,7 @@ msgstr ""
 #: ../../NetDriveUI/flatsettingcontents.ui:181
 msgctxt "FlatSettingContents|"
 msgid "Cache path"
-msgstr "Cache Pfad"
+msgstr "Cache-Pfad"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:198
 msgctxt "FlatSettingContents|"
@@ -674,12 +679,12 @@ msgstr "LOG"
 #: ../../NetDriveUI/flatsettingcontents.ui:288
 msgctxt "FlatSettingContents|"
 msgid "Log level"
-msgstr "Log Level"
+msgstr "Log-Level"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:321
 msgctxt "FlatSettingContents|"
 msgid "OPEN LOG FOLDER"
-msgstr "LOG VERZEICHNIS ÖFFNEN"
+msgstr "LOG-VERZEICHNIS ÖFFNEN"
 
 #: ../../NetDriveUI/flatsettingcontents.ui:347
 msgctxt "FlatSettingContents|"
@@ -689,7 +694,7 @@ msgstr "NETZWERK"
 #: ../../NetDriveUI/flatsettingcontents.ui:353
 msgctxt "FlatSettingContents|"
 msgid "PROXY SETTINGS"
-msgstr "PROXY EINSTELLUNGEN"
+msgstr "PROXY-EINSTELLUNGEN"
 
 #: ../../NetDriveUI/flatsettingcontents.cpp:54
 msgctxt "FlatSettingContents|"
@@ -710,7 +715,7 @@ msgstr "Aktuell sind %0.2f GB Festplattenspeicher verfügbar"
 #: ../../NetDriveUI/flatsettingcontents.ui:94
 msgctxt "FlatSettingContents|"
 msgid "Unlock all locked files when disconnecting drive"
-msgstr ""
+msgstr "Entsperre alle gesperrten Dateien, wenn Laufwerk getrennt wird."
 
 #: ../../../ui_helper/bdui/flatupdate.ui:14
 #, qt-format
@@ -729,12 +734,12 @@ msgstr "Eine neue Version von %1 ist verfügbar!"
 msgctxt "FlatUpdate|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
-msgstr "%1 %2 ist verfügbar - Sie haben %3. Wollen Sie es jetzt herunterladen?"
+msgstr "%1 %2 ist verfügbar – Sie haben %3. Wollen Sie es jetzt herunterladen?"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:88
 msgctxt "FlatUpdate|"
 msgid "Release Note:"
-msgstr "Release Informationen:"
+msgstr "Release-Informationen:"
 
 #: ../../../ui_helper/bdui/flatupdate.ui:105
 msgctxt "FlatUpdate|"
@@ -760,53 +765,53 @@ msgstr "AKTUALISIERUNG INSTALLIEREN"
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.ui:14
 msgctxt "LockedFileListDlg|"
 msgid "Locked Files List"
-msgstr ""
+msgstr "Liste der gesperrten Dateien"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:118
 msgctxt "LockedFileListDlg|"
 msgid "There is no locked file."
-msgstr ""
+msgstr "Es gibt keine gesperrten Dateien."
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:176
 msgctxt "LockedFileListDlg|"
 msgid "Unlock"
-msgstr ""
+msgstr "Entsperren"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:177
 msgctxt "LockedFileListDlg|"
 msgid "Force unlock"
-msgstr ""
+msgstr "Entsperren erzwingen"
 
 #: ../../../ui_helper/filebrowser/lockedfilelistdlg.cpp:262
 #, qt-format
 msgctxt "LockedFileListDlg|"
 msgid "Locked files list in %1"
-msgstr ""
+msgstr "Liste der gesperrten Dateien in %1"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:67
 msgctxt "LockedFileModel|"
 msgid "Missing"
-msgstr ""
+msgstr "Fehlend"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:88
 msgctxt "LockedFileModel|"
 msgid "Path"
-msgstr ""
+msgstr "Pfad"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:92
 msgctxt "LockedFileModel|"
 msgid "Locked by"
-msgstr ""
+msgstr "Gesperrt durch"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:96
 msgctxt "LockedFileModel|"
 msgid "Device"
-msgstr ""
+msgstr "Gerät"
 
 #: ../../../ui_helper/filebrowser/lockedfilemodel.cpp:100
 msgctxt "LockedFileModel|"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 #: ../../NetDriveUI/ndflatui.cpp:176
 #, qt-format
@@ -816,7 +821,7 @@ msgid ""
 "run them now?"
 msgstr ""
 "Die Dienste von %1 müssen ausgeführt werden, sind jedoch nicht "
-"gestartet.Wollen Sie diese jetzt starten?"
+"gestartet. Wollen Sie diese jetzt starten?"
 
 #: ../../NetDriveUI/uploadstatusbase.cpp:60
 msgctxt "NDFlatUI|"
@@ -858,7 +863,7 @@ msgstr ""
 "verursacht werden, welches normalerweise dann auftritt, wenn der "
 "Bdrive-Server oder Ihr PC nicht mit dem Internet verbunden ist.\n"
 "Wenn Sie mit dem Internet verbunden sind und dieses Problem weiterhin "
-"besteht, besuchen Sie %1 um eine Benachrichtigung zu hinterlassen."
+"besteht, besuchen Sie %1, um eine Benachrichtigung zu hinterlassen."
 
 #: ../../NetDriveUI/ndflatui.cpp:1181
 msgctxt "NDFlatUI|"
@@ -868,7 +873,7 @@ msgstr "Laufwerk konnte nicht gelöscht werden."
 #: ../../NetDriveUI/ndflatui.cpp:1263
 msgctxt "NDFlatUI|"
 msgid "NetDrive Agent is starting."
-msgstr "NetDrive Agent wird gestartet."
+msgstr "NetDrive-Agent wird gestartet."
 
 #: ../../NetDriveUI/ndflatui.cpp:1267
 msgctxt "NDFlatUI|"
@@ -888,7 +893,7 @@ msgstr "Prüfe Netzwerk."
 #: ../../NetDriveUI/ndflatui.cpp:1279
 msgctxt "NDFlatUI|"
 msgid "Logging remembered users in."
-msgstr "Melde mit gespeicherten Benutzer an."
+msgstr "Melde mit gespeicherten Benutzern an."
 
 #: ../../NetDriveUI/ndflatui.cpp:1284
 msgctxt "NDFlatUI|"
@@ -903,7 +908,7 @@ msgstr "Agent ist bereit."
 #: ../../NetDriveUI/ndflatui.cpp:1300
 msgctxt "NDFlatUI|"
 msgid "Connecting to NetDrive Agent."
-msgstr "Verbinde mit NetDrive Agent."
+msgstr "Verbinde mit NetDrive-Agent."
 
 #: ../../NetDriveUI/ndflatui.cpp:1487
 #, qt-format
@@ -1134,7 +1139,7 @@ msgstr "Abonnement-Typ"
 #: ../../../common/ndcore.cpp:986 ../../../common/ndcore.cpp:1599
 msgctxt "QApplication|"
 msgid "Max registered devices"
-msgstr "Max registrierte Geräte"
+msgstr "Max. registrierte Geräte"
 
 #: ../../../common/ndcore.cpp:998 ../../../common/ndcore.cpp:1600
 msgctxt "QApplication|"
@@ -1184,7 +1189,7 @@ msgctxt "QApplication|"
 msgid ""
 "%1 %2 is now available - you have %3. Would you like to download it now?"
 msgstr ""
-"%1 %2 ist jetzt verfügbar - Sie haben %3. Möchten Sie es jetzt herunterladen?"
+"%1 %2 ist jetzt verfügbar – Sie haben %3. Möchten Sie es jetzt herunterladen?"
 
 #: ../../../ui_helper/proxy/proxyfactory.cpp:29
 #: ../../../ui_helper/proxy/proxyfactory.cpp:76
@@ -1240,7 +1245,7 @@ msgstr "NETZWERK"
 #: ../../NetDriveUI/ndflatui.cpp:2002
 msgctxt "QApplication|"
 msgid "PROXY SETTINGS"
-msgstr "PROXY EINSTELLUNGEN"
+msgstr "PROXY-EINSTELLUNGEN"
 
 #: ../../../common/authtemplate.cpp:972
 msgctxt "QApplication|"
